@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Jun  1 15:00:50 2023
+# Process ID: 6892
+# Current directory: C:/Users/zgnhz/Desktop/graduatedesign/third_version
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3676 C:\Users\zgnhz\Desktop\graduatedesign\third_version\third_version.xpr
+# Log file: C:/Users/zgnhz/Desktop/graduatedesign/third_version/vivado.log
+# Journal file: C:/Users/zgnhz/Desktop/graduatedesign/third_version\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.xpr
+update_compile_order -fileset sources_1
+launch_sdk -workspace C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.sdk -hwspec C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.sdk/design_1_wrapper.hdf
