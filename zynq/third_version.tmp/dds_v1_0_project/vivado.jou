@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue May 16 14:24:30 2023
+# Process ID: 6068
+# Current directory: C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.tmp/dds_v1_0_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17800 C:\Users\zgnhz\Desktop\graduatedesign\third_version\third_version.tmp\dds_v1_0_project\DDS_v1_0_project.xpr
+# Log file: C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.tmp/dds_v1_0_project/vivado.log
+# Journal file: C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.tmp/dds_v1_0_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.tmp/dds_v1_0_project/DDS_v1_0_project.xpr
+update_compile_order -fileset sources_1
+export_ip_user_files -of_objects  [get_files C:/Users/zgnhz/Desktop/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/constrs_1/imports/new/key.xdc] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files C:/Users/zgnhz/Desktop/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/constrs_1/imports/new/an108_hdmi.xdc] -no_script -reset -force -quiet
+remove_files  -fileset constrs_1 {C:/Users/zgnhz/Desktop/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/constrs_1/imports/new/key.xdc C:/Users/zgnhz/Desktop/Users/zgnhz/Desktop/graduatedesign/dds/dds.srcs/constrs_1/imports/new/an108_hdmi.xdc}
