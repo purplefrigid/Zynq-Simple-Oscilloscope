@@ -1,0 +1,46 @@
+22:15:33 INFO  : Registering command handlers for SDK TCF services
+22:15:36 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\zgnhz\Desktop\graduatedesign\second_version\second_version.sdk\temp_xsdb_launch_script.tcl
+22:15:53 INFO  : XSCT server has started successfully.
+22:15:56 INFO  : Successfully done setting XSCT server connection channel  
+22:15:56 INFO  : Processing command line option -hwspec C:/Users/zgnhz/Desktop/graduatedesign/second_version/second_version.sdk/design_1_wrapper.hdf.
+22:15:56 INFO  : Successfully done setting SDK workspace  
+10:32:57 INFO  : Registering command handlers for SDK TCF services
+10:32:58 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\zgnhz\Desktop\graduatedesign\second_version\second_version.sdk\temp_xsdb_launch_script.tcl
+10:33:01 INFO  : XSCT server has started successfully.
+10:33:02 INFO  : Successfully done setting XSCT server connection channel  
+10:33:02 INFO  : Successfully done setting SDK workspace  
+10:33:02 INFO  : Processing command line option -hwspec C:/Users/zgnhz/Desktop/graduatedesign/second_version/second_version.sdk/design_1_wrapper.hdf.
+10:33:02 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+11:02:24 INFO  : Registering command handlers for SDK TCF services
+11:02:24 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\zgnhz\Desktop\graduatedesign\second_version\second_version.sdk\temp_xsdb_launch_script.tcl
+11:02:27 INFO  : XSCT server has started successfully.
+11:02:27 INFO  : Successfully done setting XSCT server connection channel  
+11:02:28 INFO  : Successfully done setting SDK workspace  
+11:02:28 INFO  : Processing command line option -hwspec C:/Users/zgnhz/Desktop/graduatedesign/second_version/second_version.sdk/design_1_wrapper.hdf.
+11:02:28 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+03:00:57 INFO  : Registering command handlers for SDK TCF services
+03:00:58 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\zgnhz\Desktop\graduatedesign\third_version\third_version.sdk\temp_xsdb_launch_script.tcl
+03:01:01 INFO  : XSCT server has started successfully.
+03:01:02 INFO  : Successfully done setting XSCT server connection channel  
+03:01:02 INFO  : Successfully done setting SDK workspace  
+03:01:02 INFO  : Processing command line option -hwspec C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.sdk/design_1_wrapper.hdf.
+13:22:58 INFO  : Registering command handlers for SDK TCF services
+13:22:59 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\zgnhz\Desktop\graduatedesign\third_version\third_version.sdk\temp_xsdb_launch_script.tcl
+13:23:02 INFO  : XSCT server has started successfully.
+13:23:03 INFO  : Successfully done setting XSCT server connection channel  
+13:23:03 INFO  : Successfully done setting SDK workspace  
+13:23:03 INFO  : Processing command line option -hwspec C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.sdk/design_1_wrapper.hdf.
+13:23:03 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+15:09:49 INFO  : Registering command handlers for SDK TCF services
+15:09:50 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\zgnhz\Desktop\graduatedesign\third_version\third_version.sdk\temp_xsdb_launch_script.tcl
+15:09:53 INFO  : XSCT server has started successfully.
+15:09:53 INFO  : Successfully done setting XSCT server connection channel  
+15:09:54 INFO  : Successfully done setting SDK workspace  
+15:09:54 INFO  : Processing command line option -hwspec C:/Users/zgnhz/Desktop/graduatedesign/third_version/third_version.sdk/design_1_wrapper.hdf.
+15:09:54 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_1.
+20:30:18 INFO  : Registering command handlers for SDK TCF services
+20:30:18 INFO  : Launching XSCT server: xsct.bat -interactive D:\本科毕设\graduatedesign\third_version\third_version.sdk\temp_xsdb_launch_script.tcl
+20:30:23 INFO  : XSCT server has started successfully.
+20:30:23 INFO  : Successfully done setting XSCT server connection channel  
+20:30:23 INFO  : Successfully done setting SDK workspace  
+20:30:23 INFO  : Processing command line option -hwspec D:/本科毕设/graduatedesign/third_version/third_version.sdk/design_1_wrapper.hdf.

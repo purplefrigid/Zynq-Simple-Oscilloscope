@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# 
+# Start of session at: Sat Jan  6 20:43:42 2024
+# Process ID: 18472
+# Current directory: D:/本科毕设/graduatedesign/third_version/third_version.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: D:/本科毕设/graduatedesign/third_version/third_version.sdk/webtalk/webtalk.log
+# Journal file: D:/本科毕设/graduatedesign/third_version/third_version.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
